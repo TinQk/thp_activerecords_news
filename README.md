@@ -1,24 +1,10 @@
-# README
+# Episode final /!\ spoiler alert
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+C'est avec acharnement que les mousaillons bravèrent l'ouragan, et quand vers 19h le calme revient, 
+les mousaillons purent enfin remettre le cap sur leur objectif.
+Cependant, leur rafiot ayant pris l'eau pendant la tempète, ils sombrèrent, peu à peu, dans les eaux troubles de Rails.
 
-* Ruby version
+Ont-ils survecu ? Arriveront-ils à atteindre leur objectif sacré ? 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+RDV pour la saison 2 !
